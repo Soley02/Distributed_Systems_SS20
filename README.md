@@ -5,25 +5,23 @@ On this page you will find examples for the lecture: [DBE14 - Distrubuted System
 
 The examples and internet sources should support you by handling the practical part out in the lecture. Most links will tend to be readings on architecture itself and some of them will have examples. You can find more information regarding the lecuture on my [Wiki](https://github.com/Soley02/Distributed_Systems_SS20/wiki) page.
 
-An excellent introduction and overview for distrubted systems @aphyr's: [An Introduction to Distributed Systems](https://github.com/aphyr/distsys-class) 
+An excellent introduction and overview for distrubted systems you will find by @aphyr's: [An Introduction to Distributed Systems](https://github.com/aphyr/distsys-class) 
 
 ## Books
 
 ### Books from the Lecture 
 
-[Distributed Computing: Fundamentals, Simulations, and Advanced Topics](https://www.amazon.com/Distributed-Computing-Fundamentals-Simulations-Advanced/dp/0471453242) [Amazon Link]
+[Distributed Computing: Fundamentals, Simulations, and Advanced Topics](https://www.amazon.com/Distributed-Computing-Fundamentals-Simulations-Advanced/dp/0471453242) [Amazon Link] - Price: 89.08 $
 
-[Distributed Systems: Concepts and Design](https://www.thalia.de/shop/home/artikeldetails/ID42736043.html?ProvID=11000523&gclid=EAIaIQobChMIvfeB3vKk6QIVRflRCh1pQwBcEAQYBSABEgIkb_D_BwE) [Thalia Link]
+[Distributed Systems: Concepts and Design](https://www.thalia.de/shop/home/artikeldetails/ID42736043.html?ProvID=11000523&gclid=EAIaIQobChMIvfeB3vKk6QIVRflRCh1pQwBcEAQYBSABEgIkb_D_BwE) [Thalia Link] - Price: 46.99 €
 
-[Distributed Systems: Principles and Paradigms (2nd Edition) ](https://www.amazon.de/Distributed-Systems-Principles-Paradigms-Tanenbaum/dp/B00BSZVOYC) [Amazon Link]
+[Distributed Systems: Principles and Paradigms (2nd Edition) ](https://www.amazon.de/Distributed-Systems-Principles-Paradigms-Tanenbaum/dp/B00BSZVOYC) [Amazon Link] - Price: 34.17 €
 
 ## Papers
 
-Must read papers on distributed systems. While nearly all of Lamport's work should feature here, just adding a few that must be read.
-
 [Times, Clocks and Ordering of Events in Distributed Systems](https://www.microsoft.com/en-us/research/publication/time-clocks-ordering-events-distributed-system/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Flamport%2Fpubs%2Ftime-clocks.pdf) Lamport's paper, the Quintessential distributed systems primer
 
-[Session Guarantees for Weakly Consistent Replicated Data](http://www.cs.utexas.edu/~dahlin/Classes/GradOS/papers/SessionGuaranteesPDIS.pdf) a '94 paper that talks about various recommendations for session guarantees for eventually consistent systems, many of this would be standard vocabulary in reading other dist. sys papers, like monotonic reads, read your writes etc.
+[The Writings of Leslie Lamport](https://lamport.azurewebsites.net/pubs/pubs.html)
 
 ## Programming Models
 
@@ -43,4 +41,4 @@ Must read papers on distributed systems. While nearly all of Lamport's work shou
 
 [Amazon Builder's Library](https://aws.amazon.com/de/builders-library/?cards-body.sort-by=item.additionalFields.customSort&cards-body.sort-order=asc) a collection of Amazon's learnings on distributed systems
 
-[Readings in distributed systems](http://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html)
+[Readings in distributed systems](http://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html) by Christopher Meiklejohn
