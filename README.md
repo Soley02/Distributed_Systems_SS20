@@ -1,13 +1,13 @@
 # DBE - Distributed_Systems_SS20
 ## Hands-On Support
 
-On this page you will find examples for the lecture: DBE - Distrubuted Computing SS20
+On this page you will find examples for the lecture: DBE - Distrubuted Systems SS20
 
 The examples and internet sources should support you by handling the practical part out in the lecture.
 
-Most links will tend to be readings on architecture itself and some of them will have examples.
+Most links will tend to be readings on architecture itself and some of them will have examples. You can find more information regarding the lecuture on my wiki page. [Wiki](https://github.com/Soley02/Distributed_Systems_SS20/wiki)
 
-You can find an excellent introduction for distrubted systems @aphyr's: [An Introduction to Distributed Systems](https://github.com/aphyr/distsys-class) 
+You can find also an excellent introduction for distrubted systems @aphyr's: [An Introduction to Distributed Systems](https://github.com/aphyr/distsys-class) 
 
 ## Books
 
