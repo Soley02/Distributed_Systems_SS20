@@ -31,7 +31,7 @@ An excellent introduction and overview for distrubted systems you will find by @
 
 ## Videos
 
-[Distributed Deep Dive](https://www.youtube.com/channel/UCC-sGGUfT-ot_E8i1ARYQVw) interview series by Ably Relatime
+[Distributed Tutorials](https://www.youtube.com/channel/UCC-sGGUfT-ot_E8i1ARYQVw) interview series by Ably Relatime
 
 [Distributed Systems in One Lesson ](https://www.youtube.com/watch?v=Y6Ev8GIlbxc&t=17s) Distributed Systems in One Lesson by Tim Berglund
 
