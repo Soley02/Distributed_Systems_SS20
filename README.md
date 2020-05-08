@@ -5,9 +5,9 @@ On this page you will find examples for the lecture: DBE - Distrubuted Systems S
 
 The examples and internet sources should support you by handling the practical part out in the lecture.
 
-Most links will tend to be readings on architecture itself and some of them will have examples. You can find more information regarding the lecuture on my wiki page. [Wiki](https://github.com/Soley02/Distributed_Systems_SS20/wiki)
+Most links will tend to be readings on architecture itself and some of them will have examples. You can find more information regarding the lecuture on my [Wiki](https://github.com/Soley02/Distributed_Systems_SS20/wiki) page.
 
-You can find also an excellent introduction for distrubted systems @aphyr's: [An Introduction to Distributed Systems](https://github.com/aphyr/distsys-class) 
+An excellent introduction and overview for distrubted systems @aphyr's: [An Introduction to Distributed Systems](https://github.com/aphyr/distsys-class) 
 
 ## Books
 
