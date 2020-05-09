@@ -1,7 +1,7 @@
 # DBE - Distributed_Systems_SS20
 ## Hands-On Support
 
-On this page you will find examples for the lecture: [DBE14 - Distrubuted Systems SS20](https://relax.reutlingen-university.de/course/view.php?id=16387)
+On this page you will find examples for the lecture: [DBE14 - Distrubuted Systems SS20](https://relax.reutlingen-university.de/course/view.php?id=16387) [Relax_Link]
 
 The examples and internet sources should support you by handling the practical part out in the lecture. Most links will tend to be readings on architecture itself and some of them will have examples. You can find more information regarding the lecuture on my [Wiki](https://github.com/Soley02/Distributed_Systems_SS20/wiki) page.
 
