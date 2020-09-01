@@ -11,6 +11,8 @@ An excellent introduction and overview for distrubted systems you will find by @
 
 ### Books from the Lecture 
 
+[Distributed Systems: Preliminary Version - Third Edition](https://komputasi.files.wordpress.com/2018/03/mvsteen-distributed-systems-3rd-preliminary-version-3-01pre-2017-170215.pdf)
+
 [Distributed Computing: Fundamentals, Simulations, and Advanced Topics](https://www.amazon.com/Distributed-Computing-Fundamentals-Simulations-Advanced/dp/0471453242) [Amazon Link] - Price: 89.08 $
 
 [Distributed Systems: Concepts and Design](https://www.thalia.de/shop/home/artikeldetails/ID42736043.html?ProvID=11000523&gclid=EAIaIQobChMIvfeB3vKk6QIVRflRCh1pQwBcEAQYBSABEgIkb_D_BwE) [Thalia Link] - Price: 46.99 €
